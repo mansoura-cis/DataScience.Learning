@@ -1,12 +1,10 @@
 # DataScience.Learning
 This is a project of Data Mining contributing to Dr : Sara Shaker and Dr : Amira Rizk ,  Using the instructions of Eng : Mohammad El-Barbeer  :smiley:  Created By 
+ <img style="padding:1em">  ![Contributer](https://img.shields.io/badge/Ahmed%20Khalil-CIS%20Student-brightgreen)
 
-<p align="center">
- ![Contributer](https://img.shields.io/badge/Ahmed%20Khalil-CIS%20Student-brightgreen)
-</p>
+
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-
 
 ## Projects:
 |Project| open CoLab  |Github|
