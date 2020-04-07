@@ -1,11 +1,8 @@
 # DataScience.Learning
-This is a project of Data Mining contributing to Dr : Sara Shaker and Dr : Amira Rizk ,  Using the instructions of Eng : Mohammad El-Barbeer  :smiley:
+This is a project of Data Mining contributing to Dr : Sara Shaker and Dr : Amira Rizk ,  Using the instructions of Eng : Mohammad El-Barbeer  :smiley:  Created By 
+
 <p align="center">
-   <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-    <a href="https://coveralls.io/github/badges/shields">
-        <img src="https://img.shields.io/coveralls/github/badges/shields"
-            alt="coverage"></a>     
+ ![Contributer](https://img.shields.io/badge/Ahmed%20Khalil-CIS%20Student-brightgreen)
 </p>
 
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
