@@ -4,8 +4,11 @@ This is a project of Data Mining contributing to Dr : Sara Shaker and Dr : Amira
 ## Projects:
 |Project| open CoLab  |Github|
 |:--|:--|:--|
+|Covid19 django scrapping website|||
+|Pandas Learning|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmedKhalil777/DataScience.Learning/blob/master/Resources/Pandas_Courses_Notebooks/KagglePandasTest.ipynb)]||
 |Iris plants| ||
 |Students Performance|||
+
 ## Datasets Used:
 |Dataset |Attributes MetaInfo |Link|
 |:--|:--|:-|
